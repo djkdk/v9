@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="v9-center-web" />
+        <module name="v9-common" />
+        <module name="v9-entity" />
+        <module name="v9-index-web" />
+        <module name="v9-mapper" />
+        <module name="v9-product-api" />
+        <module name="v9-product-service" />
+        <module name="v9-search-api" />
+        <module name="v9-search-service" />
+        <module name="v9-service" />
+        <module name="v9-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="v9" target="1.5" />
+      <module name="v9-api" target="1.5" />
+      <module name="v9-basic" target="1.5" />
+      <module name="v9-center-web" target="1.8" />
+      <module name="v9-common" target="1.6" />
+      <module name="v9-entity" target="1.5" />
+      <module name="v9-index-web" target="1.8" />
+      <module name="v9-mapper" target="1.8" />
+      <module name="v9-product-api" target="1.5" />
+      <module name="v9-product-service" target="1.8" />
+      <module name="v9-search-api" target="1.5" />
+      <module name="v9-search-service" target="1.8" />
+      <module name="v9-service" target="1.5" />
+      <module name="v9-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

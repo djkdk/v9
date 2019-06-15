@@ -1,0 +1,5 @@
+
+spring:
+  data:
+    solr:
+      host: http://192.168.244.129:8088/solr/

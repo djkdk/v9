@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9.iml" filepath="$PROJECT_DIR$/v9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-api/v9-api.iml" filepath="$PROJECT_DIR$/v9-api/v9-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-basic/v9-basic.iml" filepath="$PROJECT_DIR$/v9-basic/v9-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-web/v9-center-web/v9-center-web.iml" filepath="$PROJECT_DIR$/v9-web/v9-center-web/v9-center-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-basic/v9-common/v9-common.iml" filepath="$PROJECT_DIR$/v9-basic/v9-common/v9-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-basic/v9-entity/v9-entity.iml" filepath="$PROJECT_DIR$/v9-basic/v9-entity/v9-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-web/v9-index-web/v9-index-web.iml" filepath="$PROJECT_DIR$/v9-web/v9-index-web/v9-index-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-basic/v9-mapper/v9-mapper.iml" filepath="$PROJECT_DIR$/v9-basic/v9-mapper/v9-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-api/v9-product-api/v9-product-api.iml" filepath="$PROJECT_DIR$/v9-api/v9-product-api/v9-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-service/v9-product-service/v9-product-service.iml" filepath="$PROJECT_DIR$/v9-service/v9-product-service/v9-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-api/v9-search-api/v9-search-api.iml" filepath="$PROJECT_DIR$/v9-api/v9-search-api/v9-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-service/v9-search-service/v9-search-service.iml" filepath="$PROJECT_DIR$/v9-service/v9-search-service/v9-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-service/v9-service.iml" filepath="$PROJECT_DIR$/v9-service/v9-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v9-web/v9-web.iml" filepath="$PROJECT_DIR$/v9-web/v9-web.iml" />
+    </modules>
+  </component>
+</project>
